@@ -1,16 +1,16 @@
-ClientID,ClientName,ClientDOB,ClientPhoneNo
-1,Stephanie Panswick,657-78-5116,(154) 5632033
-2,Clarie Glantz,116-57-3193,(850) 4358215
-3,Birgitta Retchless,694-41-4273,(754) 9220765
-4,Erminie Scuse,852-41-7995,(352) 6510393
-5,Sula Agastina,801-26-0767,(121) 2079044
-6,Zia McLevie,738-34-3681,(938) 1891897
-7,Clarance Bodley,898-34-0396,(549) 9654176
-8,Mollee Seamans,170-77-1494,(386) 9738337
-9,Even Robyns,665-35-8569,(806) 1591291
-10,Tulley Lailey,473-61-8476,(801) 1577397
-11,Paul Dovydenas,203-96-8813,(360) 1756778
-12,Eb Colbeck,175-62-5837,(974) 8699103
-13,Tracy Wasling,424-78-3555,(973) 6473788
-14,Shepperd Brackenridge,296-64-4490,(219) 3070468
-15,Meridith Lording,263-20-9133,(618) 8493700
+﻿id,name,dob,phoneNo
+1,Stephanie Panswick,11/09/1970,(154) 5632033
+2,Clarie Glantz,07/24/1986,(850) 4358215
+3,Birgitta Retchless,12/30/1995,(754) 9220765
+4,Erminie Scuse,06/19/1992,(352) 6510393
+5,Sula Agastina,07/08/1998,(121) 2079044
+6,Zia McLevie,09/13/1960,(938) 1891897
+7,Clarance Bodley,08/29/1995,(549) 9654176
+8,Mollee Seamans,01/05/1970,(386) 9738337
+9,Even Robyns,11/09/1972,(806) 1591291
+10,Tulley Lailey,04/05/1990,(801) 1577397
+11,Paul Dovydenas,11/15/1982,(360) 1756778
+12,Eb Colbeck,01/08/1950,(974) 8699103
+13,Tracy Wasling,02/12/1968,(973) 6473788
+14,Shepperd Brackenridge,11/15/1990,(219) 3070468
+15,Meridith Lording,05/30/1982,(618) 8493700

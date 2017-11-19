@@ -1,4 +1,4 @@
-Order_ProductID,OrderID,ProductID,ProductQuantity
+﻿id,OrderID,ProductID,quantity
 1,28,15,2
 2,27,3,16
 3,2,22,19

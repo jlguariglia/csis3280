@@ -1,4 +1,4 @@
-OrderID,OrderTotalPrice,ClientID
+﻿id,totalPrice,ClientID
 1,27,2
 2,7,15
 3,27,8

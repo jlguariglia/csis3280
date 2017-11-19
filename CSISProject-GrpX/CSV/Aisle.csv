@@ -1,4 +1,4 @@
-AisleID,AisleNo,AisleRows,AisleColumns
+﻿id,number,rows,columns
 1,5,4,5
 2,3,6,7
 3,4,4,8
